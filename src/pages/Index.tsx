@@ -11,11 +11,11 @@ const Index = () => {
   
   const pages = [
     { 
-      title: 'Forms!*&', 
+      title: 'Forms!*&++', 
       path: '/forms', 
       description: 'Test various form components and validations',
       color: 'test-blue'
-    },
+    },  
     { 
       title: 'Tables', 
       path: '/tables', 
